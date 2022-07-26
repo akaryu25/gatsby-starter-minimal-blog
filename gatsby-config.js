@@ -23,17 +23,17 @@ module.exports = {
       options: {
         navigation: [
           {
-            title: `Blog`,
-            slug: `/blog`,
+            title: `Italiano`,
+            slug: `/italiano`,
           },
           {
-            title: `About`,
-            slug: `/about`,
+            title: `English`,
+            slug: `/english`,
           },
         ],
         externalLinks: [
           {
-            name: `Twitter`,
+            name: `Instagram`,
             url: `https://twitter.com/lekoarts_de`,
           },
           {
