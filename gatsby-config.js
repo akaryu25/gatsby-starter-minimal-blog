@@ -10,7 +10,7 @@ module.exports = {
     siteTitle: `Casa Affitto Cadine`,
     siteTitleAlt: `Casa Affitto Cadine - studenti`,
     siteHeadline: `Casa Affitto Cadine`,
-    siteUrl: ``,
+    siteUrl: `https://gatsbystarterminimalblog06331.gatsbyjs.io/`,
     siteDescription: ``,
     siteLanguage: `en`,
     siteImage: `/banner.jpg`,
